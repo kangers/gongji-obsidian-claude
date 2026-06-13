@@ -18,7 +18,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 │   ├── 公基必刷1600题/
 │   └── 各种 PDF 教材       ← 【01】公基上/下.pdf 等
 ├── 真题/                   ← 模拟卷（Markdown 格式）
-├── 退役军人事务局-培训课/  ← 培训笔记及讲义 PDF
+├── 劳动者事务局-培训课/  ← 培训笔记及讲义 PDF
 ├── OCR文本提取/           ← OCR 输出结果（.txt）
 ├── AI辅助/                ← AI 生成题目相关
 ├── ocr_batch.sh           ← 多步 OCR（PDF→图片→tesseract，300 DPI，chi_sim）
@@ -31,7 +31,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 - **公基资料库/** — 公共基础知识：[01]公基上/下（核心教材）、学霸笔记、行政法、陕西省政府工作报告、练习题+解析、公基必刷1600题
 - **真题/** — 模拟卷（Markdown），含 JSON 格式的单选/多选/判断题
-- **退役军人事务局-培训课/** — 线下培训讲义 PDF 与笔记图片
+- **劳动者事务局-培训课/** — 线下培训讲义 PDF 与笔记图片
 - **OCR文本提取/** — OCR 脚本输出的纯文本文件目录
 - **AI辅助/** — AI 辅助备考相关资料
 
