@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 500" width="100%" height="100%">
+<defs>
+<style>
+    text { font-family: system-ui, -apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif; }
+    .bg { fill: #FAFBFC; }
+    .root { fill: #FF6B6B; }
+    .root-fg { fill: #FFFFFF; font-weight: 700; }
+    .b1 { fill: #4ECDC4; }
+    .b1-fg { fill: #FFFFFF; font-weight: 600; }
+    .b2 { fill: #FFE66D; }
+    .b2-fg { fill: #2C3E50; font-weight: 500; }
+    .b3 { fill: #A8E6CF; }
+    .b3-fg { fill: #2C3E50; font-weight: 500; }
+    .leaf { fill: #DFE6E9; }
+    .leaf-fg { fill: #636E72; font-size: 11px; }
+    .line { stroke: #B2BEC3; stroke-width: 2; fill: none; stroke-linecap: round; }
+    .thin { stroke: #B2BEC3; stroke-width: 1.2; fill: none; stroke-linecap: round; stroke-dasharray: 4 3; }
+    .title { font-size: 18px; font-weight: 800; fill: #2C3E50; }
+    @media (prefers-color-scheme: dark) {
+        .bg { fill: #1a1a2e; }
+        .leaf { fill: #2d3436; }
+        .leaf-fg { fill: #dfe6e9; }
+        .line { stroke: #636e72; }
+    }
+</style>
+<filter id="shadow" x="-5%" y="-5%" width="110%" height="110%">
+    <feDropShadow dx="1" dy="2" stdDeviation="3" flood-opacity="0.12"/>
+</filter>
+</defs>
+<rect class="bg" width="1100" height="500" rx="16"/><rect x="13.399999999999999" y="229.2" width="123.2" height="41.6" rx="12" class="root" filter="url(#shadow)"/>
+<text x="75" y="250.0" class="root-fg" font-size="16" text-anchor="middle" dominant-baseline="middle">毛思想三概念</text>
+<rect x="229.90000000000003" y="143.6" width="73.4" height="32.8" rx="8" class="b1" filter="url(#shadow)"/>
+<text x="266.6" y="160.0" class="b1-fg" font-size="13" text-anchor="middle" dominant-baseline="middle">活的灵魂</text>
+<path d="M136.6,250.0 C166.6,250.0 199.90000000000003,160.0 229.90000000000003,160.0" class="line" fill="none"/>
+<rect x="392.40000000000003" y="107.2" width="61.8" height="27.6" rx="6" class="b2" filter="url(#shadow)"/>
+<text x="423.3" y="121.0" class="b2-fg" font-size="11" text-anchor="middle" dominant-baseline="middle">实事求是</text>
+<path d="M303.3,160.0 C333.3,160.0 362.40000000000003,121.0 392.40000000000003,121.0" class="line" fill="none"/>
+<rect x="392.40000000000003" y="133.2" width="61.8" height="27.6" rx="6" class="b2" filter="url(#shadow)"/>
+<text x="423.3" y="147.0" class="b2-fg" font-size="11" text-anchor="middle" dominant-baseline="middle">群众路线</text>
+<path d="M303.3,160.0 C333.3,160.0 362.40000000000003,147.0 392.40000000000003,147.0" class="line" fill="none"/>
+<rect x="392.40000000000003" y="159.2" width="61.8" height="27.6" rx="6" class="b2" filter="url(#shadow)"/>
+<text x="423.3" y="173.0" class="b2-fg" font-size="11" text-anchor="middle" dominant-baseline="middle">独立自主</text>
+<path d="M303.3,160.0 C333.3,160.0 362.40000000000003,173.0 392.40000000000003,173.0" class="line" fill="none"/>
+<rect x="381.95" y="185.2" width="82.7" height="27.6" rx="6" class="b2" filter="url(#shadow)"/>
+<text x="423.3" y="199.0" class="b2-fg" font-size="11" text-anchor="middle" dominant-baseline="middle">口诀：是群主</text>
+<path d="M303.3,160.0 C333.3,160.0 351.95,199.0 381.95,199.0" class="line" fill="none"/>
+<rect x="229.90000000000003" y="203.6" width="73.4" height="32.8" rx="8" class="b1" filter="url(#shadow)"/>
+<text x="266.6" y="220.0" class="b1-fg" font-size="13" text-anchor="middle" dominant-baseline="middle">三大法宝</text>
+<path d="M136.6,250.0 C166.6,250.0 199.90000000000003,220.0 229.90000000000003,220.0" class="line" fill="none"/>
+<rect x="392.40000000000003" y="167.2" width="61.8" height="27.6" rx="6" class="b2" filter="url(#shadow)"/>
+<text x="423.3" y="181.0" class="b2-fg" font-size="11" text-anchor="middle" dominant-baseline="middle">统一战线</text>
+<path d="M303.3,220.0 C333.3,220.0 362.40000000000003,181.0 392.40000000000003,181.0" class="line" fill="none"/>
+<rect x="392.40000000000003" y="193.2" width="61.8" height="27.6" rx="6" class="b2" filter="url(#shadow)"/>
+<text x="423.3" y="207.0" class="b2-fg" font-size="11" text-anchor="middle" dominant-baseline="middle">武装斗争</text>
+<path d="M303.3,220.0 C333.3,220.0 362.40000000000003,207.0 392.40000000000003,207.0" class="line" fill="none"/>
+<rect x="392.40000000000003" y="219.2" width="61.8" height="27.6" rx="6" class="b2" filter="url(#shadow)"/>
+<text x="423.3" y="233.0" class="b2-fg" font-size="11" text-anchor="middle" dominant-baseline="middle">党的建设</text>
+<path d="M303.3,220.0 C333.3,220.0 362.40000000000003,233.0 392.40000000000003,233.0" class="line" fill="none"/>
+<rect x="376.725" y="245.2" width="93.15" height="27.6" rx="6" class="b2" filter="url(#shadow)"/>
+<text x="423.3" y="259.0" class="b2-fg" font-size="11" text-anchor="middle" dominant-baseline="middle">口诀：统战武建</text>
+<path d="M303.3,220.0 C333.3,220.0 346.725,259.0 376.725,259.0" class="line" fill="none"/>
+<rect x="229.90000000000003" y="263.6" width="73.4" height="32.8" rx="8" class="b1" filter="url(#shadow)"/>
+<text x="266.6" y="280.0" class="b1-fg" font-size="13" text-anchor="middle" dominant-baseline="middle">三大作风</text>
+<path d="M136.6,250.0 C166.6,250.0 199.90000000000003,280.0 229.90000000000003,280.0" class="line" fill="none"/>
+<rect x="381.95" y="227.2" width="82.7" height="27.6" rx="6" class="b2" filter="url(#shadow)"/>
+<text x="423.3" y="241.0" class="b2-fg" font-size="11" text-anchor="middle" dominant-baseline="middle">理论联系实际</text>
+<path d="M303.3,280.0 C333.3,280.0 351.95,241.0 381.95,241.0" class="line" fill="none"/>
+<rect x="381.95" y="253.2" width="82.7" height="27.6" rx="6" class="b2" filter="url(#shadow)"/>
+<text x="423.3" y="267.0" class="b2-fg" font-size="11" text-anchor="middle" dominant-baseline="middle">密切联系群众</text>
+<path d="M303.3,280.0 C333.3,280.0 351.95,267.0 381.95,267.0" class="line" fill="none"/>
+<rect x="376.725" y="279.2" width="93.15" height="27.6" rx="6" class="b2" filter="url(#shadow)"/>
+<text x="423.3" y="293.0" class="b2-fg" font-size="11" text-anchor="middle" dominant-baseline="middle">批评与自我批评</text>
+<path d="M303.3,280.0 C333.3,280.0 346.725,293.0 376.725,293.0" class="line" fill="none"/>
+<rect x="381.95" y="305.2" width="82.7" height="27.6" rx="6" class="b2" filter="url(#shadow)"/>
+<text x="423.3" y="319.0" class="b2-fg" font-size="11" text-anchor="middle" dominant-baseline="middle">口诀：理密批</text>
+<path d="M303.3,280.0 C333.3,280.0 351.95,319.0 381.95,319.0" class="line" fill="none"/>
+<rect x="229.90000000000003" y="323.6" width="73.4" height="32.8" rx="8" class="b1" filter="url(#shadow)"/>
+<text x="266.6" y="340.0" class="b1-fg" font-size="13" text-anchor="middle" dominant-baseline="middle">理论辈分</text>
+<path d="M136.6,250.0 C166.6,250.0 199.90000000000003,340.0 229.90000000000003,340.0" class="line" fill="none"/>
+<rect x="389.375" y="287.2" width="67.85" height="27.6" rx="6" class="b2" filter="url(#shadow)"/>
+<text x="423.3" y="301.0" class="b2-fg" font-size="11" text-anchor="middle" dominant-baseline="middle">第一个=毛</text>
+<path d="M303.3,340.0 C333.3,340.0 359.375,301.0 389.375,301.0" class="line" fill="none"/>
+<rect x="394.6" y="313.2" width="57.4" height="27.6" rx="6" class="b2" filter="url(#shadow)"/>
+<text x="423.3" y="327.0" class="b2-fg" font-size="11" text-anchor="middle" dominant-baseline="middle">最新=习</text>
+<path d="M303.3,340.0 C333.3,340.0 364.6,327.0 394.6,327.0" class="line" fill="none"/>
+<rect x="394.6" y="339.2" width="57.4" height="27.6" rx="6" class="b2" filter="url(#shadow)"/>
+<text x="423.3" y="353.0" class="b2-fg" font-size="11" text-anchor="middle" dominant-baseline="middle">开创=邓</text>
+<path d="M303.3,340.0 C333.3,340.0 364.6,353.0 394.6,353.0" class="line" fill="none"/>
+<rect x="376.725" y="365.2" width="93.15" height="27.6" rx="6" class="b2" filter="url(#shadow)"/>
+<text x="423.3" y="379.0" class="b2-fg" font-size="11" text-anchor="middle" dominant-baseline="middle">中特体系不含毛</text>
+<path d="M303.3,340.0 C333.3,340.0 346.725,379.0 376.725,379.0" class="line" fill="none"/></svg>

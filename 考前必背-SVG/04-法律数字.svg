@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="100%" height="100%">
+<defs>
+<style>
+    text { font-family: system-ui, -apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif; }
+    .bg { fill: #FAFBFC; }
+    .root { fill: #FF6B6B; }
+    .root-fg { fill: #FFFFFF; font-weight: 700; }
+    .b1 { fill: #4ECDC4; }
+    .b1-fg { fill: #FFFFFF; font-weight: 600; }
+    .b2 { fill: #FFE66D; }
+    .b2-fg { fill: #2C3E50; font-weight: 500; }
+    .b3 { fill: #A8E6CF; }
+    .b3-fg { fill: #2C3E50; font-weight: 500; }
+    .leaf { fill: #DFE6E9; }
+    .leaf-fg { fill: #636E72; font-size: 11px; }
+    .line { stroke: #B2BEC3; stroke-width: 2; fill: none; stroke-linecap: round; }
+    .thin { stroke: #B2BEC3; stroke-width: 1.2; fill: none; stroke-linecap: round; stroke-dasharray: 4 3; }
+    .title { font-size: 18px; font-weight: 800; fill: #2C3E50; }
+    @media (prefers-color-scheme: dark) {
+        .bg { fill: #1a1a2e; }
+        .leaf { fill: #2d3436; }
+        .leaf-fg { fill: #dfe6e9; }
+        .line { stroke: #636e72; }
+    }
+</style>
+<filter id="shadow" x="-5%" y="-5%" width="110%" height="110%">
+    <feDropShadow dx="1" dy="2" stdDeviation="3" flood-opacity="0.12"/>
+</filter>
+</defs>
+<rect class="bg" width="1200" height="400" rx="16"/><rect x="23.4" y="179.2" width="123.2" height="41.6" rx="12" class="root" filter="url(#shadow)"/>
+<text x="85" y="200.0" class="root-fg" font-size="16" text-anchor="middle" dominant-baseline="middle">法律数字陷阱</text>
+<rect x="229.90000000000003" y="83.6" width="73.4" height="32.8" rx="8" class="b1" filter="url(#shadow)"/>
+<text x="266.6" y="100.0" class="b1-fg" font-size="13" text-anchor="middle" dominant-baseline="middle">诉讼时效</text>
+<path d="M146.6,200.0 C176.6,200.0 199.90000000000003,100.0 229.90000000000003,100.0" class="line" fill="none"/>
+<rect x="386.575" y="74.2" width="63.45" height="27.6" rx="6" class="b2" filter="url(#shadow)"/>
+<text x="418.3" y="88.0" class="b2-fg" font-size="11" text-anchor="middle" dominant-baseline="middle">一般=3年</text>
+<path d="M303.3,100.0 C333.3,100.0 356.575,88.0 386.575,88.0" class="line" fill="none"/>
+<rect x="383.55" y="98.2" width="69.5" height="27.6" rx="6" class="b2" filter="url(#shadow)"/>
+<text x="418.3" y="112.0" class="b2-fg" font-size="11" text-anchor="middle" dominant-baseline="middle">最长=20年</text>
+<path d="M303.3,100.0 C333.3,100.0 353.55,112.0 383.55,112.0" class="line" fill="none"/>
+<rect x="229.90000000000003" y="133.6" width="73.4" height="32.8" rx="8" class="b1" filter="url(#shadow)"/>
+<text x="266.6" y="150.0" class="b1-fg" font-size="13" text-anchor="middle" dominant-baseline="middle">加班工资</text>
+<path d="M146.6,200.0 C176.6,200.0 199.90000000000003,150.0 229.90000000000003,150.0" class="line" fill="none"/>
+<rect x="382.725" y="112.2" width="71.14999999999999" height="27.6" rx="6" class="b2" filter="url(#shadow)"/>
+<text x="418.3" y="126.0" class="b2-fg" font-size="11" text-anchor="middle" dominant-baseline="middle">平日=150%</text>
+<path d="M303.3,150.0 C333.3,150.0 352.725,126.0 382.725,126.0" class="line" fill="none"/>
+<rect x="377.5" y="136.2" width="81.6" height="27.6" rx="6" class="b2" filter="url(#shadow)"/>
+<text x="418.3" y="150.0" class="b2-fg" font-size="11" text-anchor="middle" dominant-baseline="middle">休息日=200%</text>
+<path d="M303.3,150.0 C333.3,150.0 347.5,150.0 377.5,150.0" class="line" fill="none"/>
+<rect x="377.5" y="160.2" width="81.6" height="27.6" rx="6" class="b2" filter="url(#shadow)"/>
+<text x="418.3" y="174.0" class="b2-fg" font-size="11" text-anchor="middle" dominant-baseline="middle">节假日=300%</text>
+<path d="M303.3,150.0 C333.3,150.0 347.5,174.0 377.5,174.0" class="line" fill="none"/>
+<rect x="242.25000000000003" y="183.6" width="48.7" height="32.8" rx="8" class="b1" filter="url(#shadow)"/>
+<text x="266.6" y="200.0" class="b1-fg" font-size="13" text-anchor="middle" dominant-baseline="middle">刑法</text>
+<path d="M146.6,200.0 C176.6,200.0 212.25000000000003,200.0 242.25000000000003,200.0" class="line" fill="none"/>
+<rect x="360.75000000000006" y="162.2" width="90.39999999999999" height="27.6" rx="6" class="b2" filter="url(#shadow)"/>
+<text x="405.95000000000005" y="176.0" class="b2-fg" font-size="11" text-anchor="middle" dominant-baseline="middle">完全责任=16岁</text>
+<path d="M290.95000000000005,200.0 C320.95000000000005,200.0 330.75000000000006,176.0 360.75000000000006,176.0" class="line" fill="none"/>
+<rect x="356.35" y="186.2" width="99.2" height="27.6" rx="6" class="b2" filter="url(#shadow)"/>
+<text x="405.95000000000005" y="200.0" class="b2-fg" font-size="11" text-anchor="middle" dominant-baseline="middle">主刑=管拘有无死</text>
+<path d="M290.95000000000005,200.0 C320.95000000000005,200.0 326.35,200.0 356.35,200.0" class="line" fill="none"/>
+<rect x="350.30000000000007" y="210.2" width="111.3" height="27.6" rx="6" class="b2" filter="url(#shadow)"/>
+<text x="405.95000000000005" y="224.0" class="b2-fg" font-size="11" text-anchor="middle" dominant-baseline="middle">缓刑=拘役/3年以下</text>
+<path d="M290.95000000000005,200.0 C320.95000000000005,200.0 320.30000000000007,224.0 350.30000000000007,224.0" class="line" fill="none"/>
+<rect x="229.90000000000003" y="233.6" width="73.4" height="32.8" rx="8" class="b1" filter="url(#shadow)"/>
+<text x="266.6" y="250.0" class="b1-fg" font-size="13" text-anchor="middle" dominant-baseline="middle">行政时限</text>
+<path d="M146.6,200.0 C176.6,200.0 199.90000000000003,250.0 229.90000000000003,250.0" class="line" fill="none"/>
+<rect x="383.55" y="200.2" width="69.5" height="27.6" rx="6" class="b2" filter="url(#shadow)"/>
+<text x="418.3" y="214.0" class="b2-fg" font-size="11" text-anchor="middle" dominant-baseline="middle">许可=20日</text>
+<path d="M303.3,250.0 C333.3,250.0 353.55,214.0 383.55,214.0" class="line" fill="none"/>
+<rect x="383.55" y="224.2" width="69.5" height="27.6" rx="6" class="b2" filter="url(#shadow)"/>
+<text x="418.3" y="238.0" class="b2-fg" font-size="11" text-anchor="middle" dominant-baseline="middle">复议=60日</text>
+<path d="M303.3,250.0 C333.3,250.0 353.55,238.0 383.55,238.0" class="line" fill="none"/>
+<rect x="376.125" y="248.2" width="84.35" height="27.6" rx="6" class="b2" filter="url(#shadow)"/>
+<text x="418.3" y="262.0" class="b2-fg" font-size="11" text-anchor="middle" dominant-baseline="middle">诉讼起诉=6月</text>
+<path d="M303.3,250.0 C333.3,250.0 346.125,262.0 376.125,262.0" class="line" fill="none"/>
+<rect x="373.1" y="272.2" width="90.39999999999999" height="27.6" rx="6" class="b2" filter="url(#shadow)"/>
+<text x="418.3" y="286.0" class="b2-fg" font-size="11" text-anchor="middle" dominant-baseline="middle">拘留合并=20日</text>
+<path d="M303.3,250.0 C333.3,250.0 343.1,286.0 373.1,286.0" class="line" fill="none"/>
+<rect x="223.72500000000002" y="283.6" width="85.75" height="32.8" rx="8" class="b1" filter="url(#shadow)"/>
+<text x="266.6" y="300.0" class="b1-fg" font-size="13" text-anchor="middle" dominant-baseline="middle">公务员处分</text>
+<path d="M146.6,200.0 C176.6,200.0 193.72500000000002,300.0 223.72500000000002,300.0" class="line" fill="none"/>
+<rect x="372.40000000000003" y="274.2" width="104.14999999999999" height="27.6" rx="6" class="b2" filter="url(#shadow)"/>
+<text x="424.475" y="288.0" class="b2-fg" font-size="11" text-anchor="middle" dominant-baseline="middle">6→12→18→24月</text>
+<path d="M309.475,300.0 C339.475,300.0 342.40000000000003,288.0 372.40000000000003,288.0" class="line" fill="none"/>
+<rect x="374.875" y="298.2" width="99.2" height="27.6" rx="6" class="b2" filter="url(#shadow)"/>
+<text x="424.475" y="312.0" class="b2-fg" font-size="11" text-anchor="middle" dominant-baseline="middle">记过=公务非党纪</text>
+<path d="M309.475,300.0 C339.475,300.0 344.875,312.0 374.875,312.0" class="line" fill="none"/></svg>

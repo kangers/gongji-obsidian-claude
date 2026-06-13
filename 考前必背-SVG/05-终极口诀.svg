@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1050 460" width="100%" height="100%">
+<defs>
+<style>
+    text { font-family: system-ui, -apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif; }
+    .bg { fill: #FAFBFC; }
+    .root { fill: #FF6B6B; }
+    .root-fg { fill: #FFFFFF; font-weight: 700; }
+    .b1 { fill: #4ECDC4; }
+    .b1-fg { fill: #FFFFFF; font-weight: 600; }
+    .b2 { fill: #FFE66D; }
+    .b2-fg { fill: #2C3E50; font-weight: 500; }
+    .b3 { fill: #A8E6CF; }
+    .b3-fg { fill: #2C3E50; font-weight: 500; }
+    .leaf { fill: #DFE6E9; }
+    .leaf-fg { fill: #636E72; font-size: 11px; }
+    .line { stroke: #B2BEC3; stroke-width: 2; fill: none; stroke-linecap: round; }
+    .thin { stroke: #B2BEC3; stroke-width: 1.2; fill: none; stroke-linecap: round; stroke-dasharray: 4 3; }
+    .title { font-size: 18px; font-weight: 800; fill: #2C3E50; }
+    @media (prefers-color-scheme: dark) {
+        .bg { fill: #1a1a2e; }
+        .leaf { fill: #2d3436; }
+        .leaf-fg { fill: #dfe6e9; }
+        .line { stroke: #636e72; }
+    }
+</style>
+<filter id="shadow" x="-5%" y="-5%" width="110%" height="110%">
+    <feDropShadow dx="1" dy="2" stdDeviation="3" flood-opacity="0.12"/>
+</filter>
+</defs>
+<rect class="bg" width="1050" height="460" rx="16"/><text x="525.0" y="30" class="title" font-size="16" text-anchor="middle" dominant-baseline="middle">终极速记口诀 · 进考场前默写</text>
+<rect x="102.65" y="53.6" width="64.7" height="32.8" rx="10" class="root" filter="url(#shadow)"/>
+<text x="135.0" y="70" class="root-fg" font-size="13" text-anchor="middle" dominant-baseline="middle">马原</text>
+<rect x="108.0" y="98.0" width="54.0" height="24.0" rx="6" class="leaf" filter="url(#shadow)"/>
+<text x="135.0" y="110" class="leaf-fg" font-size="10" text-anchor="middle" dominant-baseline="middle">唯客运根</text>
+<rect x="103.25" y="134.0" width="63.5" height="24.0" rx="6" class="leaf" filter="url(#shadow)"/>
+<text x="135.0" y="146" class="leaf-fg" font-size="10" text-anchor="middle" dominant-baseline="middle">联发两特征</text>
+<rect x="103.25" y="170.0" width="63.5" height="24.0" rx="6" class="leaf" filter="url(#shadow)"/>
+<text x="135.0" y="182" class="leaf-fg" font-size="10" text-anchor="middle" dominant-baseline="middle">对统是核心</text>
+<rect x="103.25" y="206.0" width="63.5" height="24.0" rx="6" class="leaf" filter="url(#shadow)"/>
+<text x="135.0" y="218" class="leaf-fg" font-size="10" text-anchor="middle" dominant-baseline="middle">否定看趋势</text>
+<rect x="297.65" y="53.6" width="64.7" height="32.8" rx="10" class="root" filter="url(#shadow)"/>
+<text x="330.0" y="70" class="root-fg" font-size="13" text-anchor="middle" dominant-baseline="middle">政治</text>
+<rect x="300.25" y="98.0" width="59.5" height="24.0" rx="6" class="leaf" filter="url(#shadow)"/>
+<text x="330.0" y="110" class="leaf-fg" font-size="10" text-anchor="middle" dominant-baseline="middle">魂=是群主</text>
+<rect x="295.5" y="134.0" width="69.0" height="24.0" rx="6" class="leaf" filter="url(#shadow)"/>
+<text x="330.0" y="146" class="leaf-fg" font-size="10" text-anchor="middle" dominant-baseline="middle">宝=统战武建</text>
+<rect x="300.25" y="170.0" width="59.5" height="24.0" rx="6" class="leaf" filter="url(#shadow)"/>
+<text x="330.0" y="182" class="leaf-fg" font-size="10" text-anchor="middle" dominant-baseline="middle">风=理密批</text>
+<rect x="279.25" y="206.0" width="101.5" height="24.0" rx="6" class="leaf" filter="url(#shadow)"/>
+<text x="330.0" y="218" class="leaf-fg" font-size="10" text-anchor="middle" dominant-baseline="middle">一毛最习开邓不含毛</text>
+<rect x="492.65" y="53.6" width="64.7" height="32.8" rx="10" class="root" filter="url(#shadow)"/>
+<text x="525.0" y="70" class="root-fg" font-size="13" text-anchor="middle" dominant-baseline="middle">经济</text>
+<rect x="498.0" y="98.0" width="54.0" height="24.0" rx="6" class="leaf" filter="url(#shadow)"/>
+<text x="525.0" y="110" class="leaf-fg" font-size="10" text-anchor="middle" dominant-baseline="middle">替增互减</text>
+<rect x="493.25" y="134.0" width="63.5" height="24.0" rx="6" class="leaf" filter="url(#shadow)"/>
+<text x="525.0" y="146" class="leaf-fg" font-size="10" text-anchor="middle" dominant-baseline="middle">价格是核心</text>
+<rect x="493.25" y="170.0" width="63.5" height="24.0" rx="6" class="leaf" filter="url(#shadow)"/>
+<text x="525.0" y="182" class="leaf-fg" font-size="10" text-anchor="middle" dominant-baseline="middle">财政财政部</text>
+<rect x="498.0" y="206.0" width="54.0" height="24.0" rx="6" class="leaf" filter="url(#shadow)"/>
+<text x="525.0" y="218" class="leaf-fg" font-size="10" text-anchor="middle" dominant-baseline="middle">货币央行</text>
+<rect x="687.65" y="53.6" width="64.7" height="32.8" rx="10" class="root" filter="url(#shadow)"/>
+<text x="720.0" y="70" class="root-fg" font-size="13" text-anchor="middle" dominant-baseline="middle">管理</text>
+<rect x="693.0" y="98.0" width="54.0" height="24.0" rx="6" class="leaf" filter="url(#shadow)"/>
+<text x="720.0" y="110" class="leaf-fg" font-size="10" text-anchor="middle" dominant-baseline="middle">计组领控</text>
+<rect x="693.0" y="134.0" width="54.0" height="24.0" rx="6" class="leaf" filter="url(#shadow)"/>
+<text x="720.0" y="146" class="leaf-fg" font-size="10" text-anchor="middle" dominant-baseline="middle">内激外保</text>
+<rect x="693.0" y="170.0" width="54.0" height="24.0" rx="6" class="leaf" filter="url(#shadow)"/>
+<text x="720.0" y="182" class="leaf-fg" font-size="10" text-anchor="middle" dominant-baseline="middle">泰勒科学</text>
+<rect x="688.25" y="206.0" width="63.5" height="24.0" rx="6" class="leaf" filter="url(#shadow)"/>
+<text x="720.0" y="218" class="leaf-fg" font-size="10" text-anchor="middle" dominant-baseline="middle">法约尔一般</text>
+<rect x="693.0" y="242.0" width="54.0" height="24.0" rx="6" class="leaf" filter="url(#shadow)"/>
+<text x="720.0" y="254" class="leaf-fg" font-size="10" text-anchor="middle" dominant-baseline="middle">韦伯组织</text>
+<rect x="882.65" y="53.6" width="64.7" height="32.8" rx="10" class="root" filter="url(#shadow)"/>
+<text x="915.0" y="70" class="root-fg" font-size="13" text-anchor="middle" dominant-baseline="middle">法律</text>
+<rect x="878.5" y="98.0" width="73.0" height="24.0" rx="6" class="leaf" filter="url(#shadow)"/>
+<text x="915.0" y="110" class="leaf-fg" font-size="10" text-anchor="middle" dominant-baseline="middle">一五二休三节</text>
+<rect x="880.5" y="134.0" width="69.0" height="24.0" rx="6" class="leaf" filter="url(#shadow)"/>
+<text x="915.0" y="146" class="leaf-fg" font-size="10" text-anchor="middle" dominant-baseline="middle">诉讼时效3年</text>
+<rect x="869.0" y="170.0" width="92.0" height="24.0" rx="6" class="leaf" filter="url(#shadow)"/>
+<text x="915.0" y="182" class="leaf-fg" font-size="10" text-anchor="middle" dominant-baseline="middle">征收或征用加补偿</text>
+<rect x="869.0" y="206.0" width="92.0" height="24.0" rx="6" class="leaf" filter="url(#shadow)"/>
+<text x="915.0" y="218" class="leaf-fg" font-size="10" text-anchor="middle" dominant-baseline="middle">记过是公务非党纪</text></svg>

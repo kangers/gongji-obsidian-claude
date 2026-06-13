@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 320" width="100%" height="100%">
+<defs>
+<style>
+    text { font-family: system-ui, -apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif; }
+    .bg { fill: #FAFBFC; }
+    .root { fill: #FF6B6B; }
+    .root-fg { fill: #FFFFFF; font-weight: 700; }
+    .b1 { fill: #4ECDC4; }
+    .b1-fg { fill: #FFFFFF; font-weight: 600; }
+    .b2 { fill: #FFE66D; }
+    .b2-fg { fill: #2C3E50; font-weight: 500; }
+    .b3 { fill: #A8E6CF; }
+    .b3-fg { fill: #2C3E50; font-weight: 500; }
+    .leaf { fill: #DFE6E9; }
+    .leaf-fg { fill: #636E72; font-size: 11px; }
+    .line { stroke: #B2BEC3; stroke-width: 2; fill: none; stroke-linecap: round; }
+    .thin { stroke: #B2BEC3; stroke-width: 1.2; fill: none; stroke-linecap: round; stroke-dasharray: 4 3; }
+    .title { font-size: 18px; font-weight: 800; fill: #2C3E50; }
+    @media (prefers-color-scheme: dark) {
+        .bg { fill: #1a1a2e; }
+        .leaf { fill: #2d3436; }
+        .leaf-fg { fill: #dfe6e9; }
+        .line { stroke: #636e72; }
+    }
+</style>
+<filter id="shadow" x="-5%" y="-5%" width="110%" height="110%">
+    <feDropShadow dx="1" dy="2" stdDeviation="3" flood-opacity="0.12"/>
+</filter>
+</defs>
+<rect class="bg" width="1100" height="320" rx="16"/><rect x="38.6" y="139.2" width="92.8" height="41.6" rx="12" class="root" filter="url(#shadow)"/>
+<text x="85" y="160.0" class="root-fg" font-size="16" text-anchor="middle" dominant-baseline="middle">经济必考</text>
+<rect x="220.875" y="68.6" width="61.05" height="32.8" rx="8" class="b1" filter="url(#shadow)"/>
+<text x="251.4" y="85.0" class="b1-fg" font-size="13" text-anchor="middle" dominant-baseline="middle">两只手</text>
+<path d="M131.4,160.0 C161.4,160.0 190.875,85.0 220.875,85.0" class="line" fill="none"/>
+<rect x="357.77500000000003" y="59.2" width="78.3" height="27.6" rx="6" class="b2" filter="url(#shadow)"/>
+<text x="396.925" y="73.0" class="b2-fg" font-size="11" text-anchor="middle" dominant-baseline="middle">看不见=斯密</text>
+<path d="M281.925,85.0 C311.925,85.0 327.77500000000003,73.0 357.77500000000003,73.0" class="line" fill="none"/>
+<rect x="352.55" y="83.2" width="88.75" height="27.6" rx="6" class="b2" filter="url(#shadow)"/>
+<text x="396.925" y="97.0" class="b2-fg" font-size="11" text-anchor="middle" dominant-baseline="middle">看得见=凯恩斯</text>
+<path d="M281.925,85.0 C311.925,85.0 322.55,97.0 352.55,97.0" class="line" fill="none"/>
+<rect x="214.7" y="118.6" width="73.4" height="32.8" rx="8" class="b1" filter="url(#shadow)"/>
+<text x="251.4" y="135.0" class="b1-fg" font-size="13" text-anchor="middle" dominant-baseline="middle">市场机制</text>
+<path d="M131.4,160.0 C161.4,160.0 184.7,135.0 214.7,135.0" class="line" fill="none"/>
+<rect x="358.725" y="109.2" width="88.75" height="27.6" rx="6" class="b2" filter="url(#shadow)"/>
+<text x="403.1" y="123.0" class="b2-fg" font-size="11" text-anchor="middle" dominant-baseline="middle">核心=价格机制</text>
+<path d="M288.1,135.0 C318.1,135.0 328.725,123.0 358.725,123.0" class="line" fill="none"/>
+<rect x="372.20000000000005" y="133.2" width="61.8" height="27.6" rx="6" class="b2" filter="url(#shadow)"/>
+<text x="403.1" y="147.0" class="b2-fg" font-size="11" text-anchor="middle" dominant-baseline="middle">替增互减</text>
+<path d="M288.1,135.0 C318.1,135.0 342.20000000000005,147.0 372.20000000000005,147.0" class="line" fill="none"/>
+<rect x="207.55" y="168.6" width="87.7" height="32.8" rx="8" class="b1" filter="url(#shadow)"/>
+<text x="251.4" y="185.0" class="b1-fg" font-size="13" text-anchor="middle" dominant-baseline="middle">财政vs货币</text>
+<path d="M131.4,160.0 C161.4,160.0 177.55,185.0 207.55,185.0" class="line" fill="none"/>
+<rect x="371.1" y="159.2" width="78.3" height="27.6" rx="6" class="b2" filter="url(#shadow)"/>
+<text x="410.25" y="173.0" class="b2-fg" font-size="11" text-anchor="middle" dominant-baseline="middle">财政=财政部</text>
+<path d="M295.25,185.0 C325.25,185.0 341.1,173.0 371.1,173.0" class="line" fill="none"/>
+<rect x="376.325" y="183.2" width="67.85" height="27.6" rx="6" class="b2" filter="url(#shadow)"/>
+<text x="410.25" y="197.0" class="b2-fg" font-size="11" text-anchor="middle" dominant-baseline="middle">货币=央行</text>
+<path d="M295.25,185.0 C325.25,185.0 346.325,197.0 376.325,197.0" class="line" fill="none"/>
+<rect x="214.7" y="218.6" width="73.4" height="32.8" rx="8" class="b1" filter="url(#shadow)"/>
+<text x="251.4" y="235.0" class="b1-fg" font-size="13" text-anchor="middle" dominant-baseline="middle">效应快查</text>
+<path d="M131.4,160.0 C161.4,160.0 184.7,235.0 214.7,235.0" class="line" fill="none"/>
+<rect x="353.5" y="185.2" width="99.2" height="27.6" rx="6" class="b2" filter="url(#shadow)"/>
+<text x="403.1" y="199.0" class="b2-fg" font-size="11" text-anchor="middle" dominant-baseline="middle">棘轮=由奢入俭难</text>
+<path d="M288.1,235.0 C318.1,235.0 323.5,199.0 353.5,199.0" class="line" fill="none"/>
+<rect x="353.5" y="209.2" width="99.2" height="27.6" rx="6" class="b2" filter="url(#shadow)"/>
+<text x="403.1" y="223.0" class="b2-fg" font-size="11" text-anchor="middle" dominant-baseline="middle">凡勃伦=越贵越买</text>
+<path d="M288.1,235.0 C318.1,235.0 323.5,223.0 353.5,223.0" class="line" fill="none"/>
+<rect x="353.5" y="233.2" width="99.2" height="27.6" rx="6" class="b2" filter="url(#shadow)"/>
+<text x="403.1" y="247.0" class="b2-fg" font-size="11" text-anchor="middle" dominant-baseline="middle">帕金森=机构膨胀</text>
+<path d="M288.1,235.0 C318.1,235.0 323.5,247.0 353.5,247.0" class="line" fill="none"/>
+<rect x="343.05" y="257.2" width="120.10000000000001" height="27.6" rx="6" class="b2" filter="url(#shadow)"/>
+<text x="403.1" y="271.0" class="b2-fg" font-size="11" text-anchor="middle" dominant-baseline="middle">菲利普斯=通胀↔失业</text>
+<path d="M288.1,235.0 C318.1,235.0 313.05,271.0 343.05,271.0" class="line" fill="none"/></svg>

@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 550" width="100%" height="100%">
+<defs>
+<style>
+    text { font-family: system-ui, -apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif; }
+    .bg { fill: #FAFBFC; }
+    .root { fill: #FF6B6B; }
+    .root-fg { fill: #FFFFFF; font-weight: 700; }
+    .b1 { fill: #4ECDC4; }
+    .b1-fg { fill: #FFFFFF; font-weight: 600; }
+    .b2 { fill: #FFE66D; }
+    .b2-fg { fill: #2C3E50; font-weight: 500; }
+    .b3 { fill: #A8E6CF; }
+    .b3-fg { fill: #2C3E50; font-weight: 500; }
+    .leaf { fill: #DFE6E9; }
+    .leaf-fg { fill: #636E72; font-size: 11px; }
+    .line { stroke: #B2BEC3; stroke-width: 2; fill: none; stroke-linecap: round; }
+    .thin { stroke: #B2BEC3; stroke-width: 1.2; fill: none; stroke-linecap: round; stroke-dasharray: 4 3; }
+    .title { font-size: 18px; font-weight: 800; fill: #2C3E50; }
+    @media (prefers-color-scheme: dark) {
+        .bg { fill: #1a1a2e; }
+        .leaf { fill: #2d3436; }
+        .leaf-fg { fill: #dfe6e9; }
+        .line { stroke: #636e72; }
+    }
+</style>
+<filter id="shadow" x="-5%" y="-5%" width="110%" height="110%">
+    <feDropShadow dx="1" dy="2" stdDeviation="3" flood-opacity="0.12"/>
+</filter>
+</defs>
+<rect class="bg" width="1100" height="550" rx="16"/><rect x="28.6" y="254.2" width="92.8" height="41.6" rx="12" class="root" filter="url(#shadow)"/>
+<text x="75" y="275.0" class="root-fg" font-size="16" text-anchor="middle" dominant-baseline="middle">马原核心</text>
+<rect x="220.875" y="161.1" width="61.05" height="32.8" rx="8" class="b1" filter="url(#shadow)"/>
+<text x="251.4" y="177.5" class="b1-fg" font-size="13" text-anchor="middle" dominant-baseline="middle">物质观</text>
+<path d="M121.4,275.0 C151.4,275.0 190.875,177.5 220.875,177.5" class="line" fill="none"/>
+<rect x="381.02500000000003" y="150.7" width="61.8" height="27.6" rx="6" class="b2" filter="url(#shadow)"/>
+<text x="411.925" y="164.5" class="b2-fg" font-size="11" text-anchor="middle" dominant-baseline="middle">唯一特性</text>
+<path d="M281.925,177.5 C311.925,177.5 351.02500000000003,164.5 381.02500000000003,164.5" class="line" fill="none"/>
+<rect x="531.075" y="152.5" width="63.5" height="24.0" rx="6" class="leaf" filter="url(#shadow)"/>
+<text x="562.825" y="164.5" class="leaf-fg" font-size="10" text-anchor="middle" dominant-baseline="middle">客观实在性</text>
+<line x1="442.825" y1="164.5" x2="531.075" y2="164.5" class="thin"/>
+<rect x="381.02500000000003" y="176.7" width="61.8" height="27.6" rx="6" class="b2" filter="url(#shadow)"/>
+<text x="411.925" y="190.5" class="b2-fg" font-size="11" text-anchor="middle" dominant-baseline="middle">根本属性</text>
+<path d="M281.925,177.5 C311.925,177.5 351.02500000000003,190.5 381.02500000000003,190.5" class="line" fill="none"/>
+<rect x="545.325" y="178.5" width="35.0" height="24.0" rx="6" class="leaf" filter="url(#shadow)"/>
+<text x="562.825" y="190.5" class="leaf-fg" font-size="10" text-anchor="middle" dominant-baseline="middle">运动</text>
+<line x1="442.825" y1="190.5" x2="545.325" y2="190.5" class="thin"/>
+<rect x="202.35000000000002" y="226.1" width="98.1" height="32.8" rx="8" class="b1" filter="url(#shadow)"/>
+<text x="251.4" y="242.5" class="b1-fg" font-size="13" text-anchor="middle" dominant-baseline="middle">哲学基本问题</text>
+<path d="M121.4,275.0 C151.4,275.0 172.35000000000002,242.5 202.35000000000002,242.5" class="line" fill="none"/>
+<rect x="378.65" y="202.7" width="103.60000000000001" height="27.6" rx="6" class="b2" filter="url(#shadow)"/>
+<text x="430.45" y="216.5" class="b2-fg" font-size="11" text-anchor="middle" dominant-baseline="middle">思维与存在的关系</text>
+<path d="M300.45,242.5 C330.45,242.5 348.65,216.5 378.65,216.5" class="line" fill="none"/>
+<rect x="399.55" y="228.7" width="61.8" height="27.6" rx="6" class="b2" filter="url(#shadow)"/>
+<text x="430.45" y="242.5" class="b2-fg" font-size="11" text-anchor="middle" dominant-baseline="middle">主观唯心</text>
+<path d="M300.45,242.5 C330.45,242.5 369.55,242.5 399.55,242.5" class="line" fill="none"/>
+<rect x="544.8499999999999" y="230.5" width="73.0" height="24.0" rx="6" class="leaf" filter="url(#shadow)"/>
+<text x="581.3499999999999" y="242.5" class="leaf-fg" font-size="10" text-anchor="middle" dominant-baseline="middle">心·我·感觉</text>
+<line x1="461.34999999999997" y1="242.5" x2="544.8499999999999" y2="242.5" class="thin"/>
+<rect x="399.55" y="254.7" width="61.8" height="27.6" rx="6" class="b2" filter="url(#shadow)"/>
+<text x="430.45" y="268.5" class="b2-fg" font-size="11" text-anchor="middle" dominant-baseline="middle">客观唯心</text>
+<path d="M300.45,242.5 C330.45,242.5 369.55,268.5 399.55,268.5" class="line" fill="none"/>
+<rect x="535.3499999999999" y="256.5" width="92.0" height="24.0" rx="6" class="leaf" filter="url(#shadow)"/>
+<text x="581.3499999999999" y="268.5" class="leaf-fg" font-size="10" text-anchor="middle" dominant-baseline="middle">理·道·绝对理念</text>
+<line x1="461.34999999999997" y1="268.5" x2="535.3499999999999" y2="268.5" class="thin"/>
+<rect x="220.875" y="291.1" width="61.05" height="32.8" rx="8" class="b1" filter="url(#shadow)"/>
+<text x="251.4" y="307.5" class="b1-fg" font-size="13" text-anchor="middle" dominant-baseline="middle">辩证法</text>
+<path d="M121.4,275.0 C151.4,275.0 190.875,307.5 220.875,307.5" class="line" fill="none"/>
+<rect x="375.8" y="254.7" width="72.25" height="27.6" rx="6" class="b2" filter="url(#shadow)"/>
+<text x="411.925" y="268.5" class="b2-fg" font-size="11" text-anchor="middle" dominant-baseline="middle">两大总特征</text>
+<path d="M281.925,307.5 C311.925,307.5 345.8,268.5 375.8,268.5" class="line" fill="none"/>
+<rect x="532.8" y="256.5" width="70.5" height="24.0" rx="6" class="leaf" filter="url(#shadow)"/>
+<text x="568.05" y="268.5" class="leaf-fg" font-size="10" text-anchor="middle" dominant-baseline="middle">联系 + 发展</text>
+<line x1="448.05" y1="268.5" x2="532.8" y2="268.5" class="thin"/>
+<rect x="381.02500000000003" y="280.7" width="61.8" height="27.6" rx="6" class="b2" filter="url(#shadow)"/>
+<text x="411.925" y="294.5" class="b2-fg" font-size="11" text-anchor="middle" dominant-baseline="middle">对立统一</text>
+<path d="M281.925,307.5 C311.925,307.5 351.02500000000003,294.5 381.02500000000003,294.5" class="line" fill="none"/>
+<rect x="516.825" y="282.5" width="92.0" height="24.0" rx="6" class="leaf" filter="url(#shadow)"/>
+<text x="562.825" y="294.5" class="leaf-fg" font-size="10" text-anchor="middle" dominant-baseline="middle">实质与核心·动力</text>
+<line x1="442.825" y1="294.5" x2="516.825" y2="294.5" class="thin"/>
+<rect x="381.02500000000003" y="306.7" width="61.8" height="27.6" rx="6" class="b2" filter="url(#shadow)"/>
+<text x="411.925" y="320.5" class="b2-fg" font-size="11" text-anchor="middle" dominant-baseline="middle">质量互变</text>
+<path d="M281.925,307.5 C311.925,307.5 351.02500000000003,320.5 381.02500000000003,320.5" class="line" fill="none"/>
+<rect x="531.075" y="308.5" width="63.5" height="24.0" rx="6" class="leaf" filter="url(#shadow)"/>
+<text x="562.825" y="320.5" class="leaf-fg" font-size="10" text-anchor="middle" dominant-baseline="middle">形式·状态</text>
+<line x1="442.825" y1="320.5" x2="531.075" y2="320.5" class="thin"/>
+<rect x="375.8" y="332.7" width="72.25" height="27.6" rx="6" class="b2" filter="url(#shadow)"/>
+<text x="411.925" y="346.5" class="b2-fg" font-size="11" text-anchor="middle" dominant-baseline="middle">否定之否定</text>
+<path d="M281.925,307.5 C311.925,307.5 345.8,346.5 375.8,346.5" class="line" fill="none"/>
+<rect x="536.3" y="334.5" width="63.5" height="24.0" rx="6" class="leaf" filter="url(#shadow)"/>
+<text x="568.05" y="346.5" class="leaf-fg" font-size="10" text-anchor="middle" dominant-baseline="middle">道路·趋势</text>
+<line x1="448.05" y1="346.5" x2="536.3" y2="346.5" class="thin"/>
+<rect x="196.175" y="356.1" width="110.44999999999999" height="32.8" rx="8" class="b1" filter="url(#shadow)"/>
+<text x="251.4" y="372.5" class="b1-fg" font-size="13" text-anchor="middle" dominant-baseline="middle">唯物主义三形态</text>
+<path d="M121.4,275.0 C151.4,275.0 166.175,372.5 196.175,372.5" class="line" fill="none"/>
+<rect x="405.725" y="332.7" width="61.8" height="27.6" rx="6" class="b2" filter="url(#shadow)"/>
+<text x="436.625" y="346.5" class="b2-fg" font-size="11" text-anchor="middle" dominant-baseline="middle">古代朴素</text>
+<path d="M306.625,372.5 C336.625,372.5 375.725,346.5 405.725,346.5" class="line" fill="none"/>
+<rect x="555.775" y="334.5" width="63.5" height="24.0" rx="6" class="leaf" filter="url(#shadow)"/>
+<text x="587.525" y="346.5" class="leaf-fg" font-size="10" text-anchor="middle" dominant-baseline="middle">水·火·气</text>
+<line x1="467.525" y1="346.5" x2="555.775" y2="346.5" class="thin"/>
+<rect x="395.275" y="358.7" width="82.7" height="27.6" rx="6" class="b2" filter="url(#shadow)"/>
+<text x="436.625" y="372.5" class="b2-fg" font-size="11" text-anchor="middle" dominant-baseline="middle">近代形而上学</text>
+<path d="M306.625,372.5 C336.625,372.5 365.275,372.5 395.275,372.5" class="line" fill="none"/>
+<rect x="566.225" y="360.5" width="63.5" height="24.0" rx="6" class="leaf" filter="url(#shadow)"/>
+<text x="597.975" y="372.5" class="leaf-fg" font-size="10" text-anchor="middle" dominant-baseline="middle">原子·机械</text>
+<line x1="477.975" y1="372.5" x2="566.225" y2="372.5" class="thin"/>
+<rect x="405.725" y="384.7" width="61.8" height="27.6" rx="6" class="b2" filter="url(#shadow)"/>
+<text x="436.625" y="398.5" class="b2-fg" font-size="11" text-anchor="middle" dominant-baseline="middle">现代辩证</text>
+<path d="M306.625,372.5 C336.625,372.5 375.725,398.5 405.725,398.5" class="line" fill="none"/>
+<rect x="560.525" y="386.5" width="54.0" height="24.0" rx="6" class="leaf" filter="url(#shadow)"/>
+<text x="587.525" y="398.5" class="leaf-fg" font-size="10" text-anchor="middle" dominant-baseline="middle">客观实在</text>
+<line x1="467.525" y1="398.5" x2="560.525" y2="398.5" class="thin"/></svg>
