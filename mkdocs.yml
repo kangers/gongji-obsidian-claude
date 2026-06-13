@@ -1,0 +1,88 @@
+site_name: 公基知识库
+site_description: 公共基础知识备考 Wiki — 基于 LLM Wiki 方法论
+site_url: https://<user>.github.io/gongji-wiki
+repo_url: https://github.com/<user>/gongji-wiki
+repo_name: gongji-wiki
+edit_uri: edit/main/docs/content/
+
+theme:
+  name: material
+  language: zh
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: 暗色模式
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: 浅色模式
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.copy
+  icon:
+    repo: fontawesome/brands/github
+
+plugins:
+  - search:
+      lang: zh
+  - awesome-pages
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.tabbed
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+      toc_depth: 3
+
+nav:
+  - 首页: index.md
+  - 知识库总览:
+    - 总览: wiki/content/wiki/总览.md
+    - 目录: wiki/content/wiki/index.md
+  - 概念知识:
+    - wiki/content/wiki/概念/
+  - 法律实体:
+    - wiki/content/wiki/实体/
+  - 备考策略:
+    - wiki/content/wiki/策略/
+  - 模拟试卷:
+    - wiki/content/辅导班题目/
+  - 专项题库:
+    - wiki/content/练题班题库/
+  - 时政考点:
+    - wiki/content/时政/
+  - 速记导图:
+    - wiki/content/考前必背-SVG/
+  - 错题速记:
+    - wiki/content/错题集/
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/<user>/gongji-wiki
+  generator: false
+
+copyright: CC BY-SA 4.0 — 公基知识库
