@@ -11,7 +11,7 @@
 ## 🚀 快速开始
 
 ### 🅰️ 只想在线浏览？
-→ 直接访问文档站：**https://kangers.github.io/-obsidian-claude-**
+→ 直接访问文档站：**https://kangers.github.io/gongji-obsidian-claude**
 
 支持全文搜索、暗色模式、手机浏览。
 
@@ -27,9 +27,9 @@
 
 ### 🅲️ 只用 Obsidian（不用 AI）
 ```bash
-git clone https://github.com/kangers/-obsidian-claude-.git
+git clone https://github.com/kangers/gongji-obsidian-claude.git
 ```
-然后用 Obsidian 打开 `-obsidian-claude-` 文件夹即可。所有 wiki-link 直接可用。
+然后用 Obsidian 打开 `gongji-obsidian-claude` 文件夹即可。所有 wiki-link 直接可用。
 
 ---
 
@@ -90,9 +90,9 @@ LLM-WORKFLOW.md → Schema 配置（告诉 AI 怎么维护）
 
 欢迎贡献！你可以：
 
-- 🐛 报告内容错误 → [提 Issue](https://github.com/kangers/-obsidian-claude-/issues/new?template=内容贡献.md)
+- 🐛 报告内容错误 → [提 Issue](https://github.com/kangers/gongji-obsidian-claude/issues/new?template=内容贡献.md)
 - 📝 新增考点或题目 → [Pull Request](CONTRIBUTING.md)
-- 💡 提出改进建议 → [Discussions](https://github.com/kangers/-obsidian-claude-/discussions)
+- 💡 提出改进建议 → [Discussions](https://github.com/kangers/gongji-obsidian-claude/discussions)
 
 详见 [CONTRIBUTING.md](CONTRIBUTING.md)
 

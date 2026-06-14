@@ -6,7 +6,7 @@
 
 ### 方式一：报告内容错误（Issue）
 如果发现知识点错误、题目答案有误、或链接失效：
-1. 进入 [Issues 页面](https://github.com/kangers/-obsidian-claude-/issues)
+1. 进入 [Issues 页面](https://github.com/kangers/gongji-obsidian-claude/issues)
 2. 点击 "New Issue" → 选择「内容贡献」模板
 3. 描述问题：涉及哪个文件、哪里错了、正确的版本是什么、参考来源
 
@@ -17,7 +17,7 @@
 
 ### 方式三：直接修改内容（Pull Request）
 1. **Fork 本仓库** → 点击 GitHub 右上角 Fork
-2. **Clone 到本地** `git clone https://github.com/<你的用户名>/-obsidian-claude-.git`
+2. **Clone 到本地** `git clone https://github.com/<你的用户名>/gongji-obsidian-claude.git`
 3. **创建新分支** `git checkout -b fix/内容描述`
 4. **修改内容** → 请在 Obsidian 中编辑以确保 wiki-link 正确
 5. **提交并推送** `git add . && git commit -m "fix: 描述" && git push origin fix/内容描述`
