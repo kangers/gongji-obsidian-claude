@@ -1,4 +1,4 @@
-name: Deploy MkDocs Site
+name: Deploy Docs Site
 
 on:
   push:
