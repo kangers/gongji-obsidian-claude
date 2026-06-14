@@ -1,8 +1,8 @@
 site_name: 公基知识库
 site_description: 公共基础知识备考 Wiki — 基于 LLM Wiki 方法论
-site_url: https://<user>.github.io/gongji-wiki
-repo_url: https://github.com/<user>/gongji-wiki
-repo_name: gongji-wiki
+site_url: https://kangers.github.io/-obsidian-claude-
+repo_url: https://github.com/kangers/-obsidian-claude-
+repo_name: 公基知识库
 edit_uri: edit/main/docs/content/
 
 theme:
@@ -82,7 +82,7 @@ nav:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/<user>/gongji-wiki
+      link: https://github.com/kangers/-obsidian-claude-
   generator: false
 
 copyright: CC BY-SA 4.0 — 公基知识库

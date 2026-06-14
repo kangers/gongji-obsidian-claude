@@ -13,7 +13,7 @@
 
 ### 🚀 想用 AI 辅助学习？
 
-访问 [GitHub 仓库](https://github.com/<user>/gongji-wiki) 查看 [零基础搭建指南](https://github.com/<user>/gongji-wiki/blob/main/SETUP.md)。从安装 Obsidian 到 AI 开始辅导，全程约 30 分钟，不需要编程基础。
+访问 [GitHub 仓库](https://github.com/kangers/-obsidian-claude-) 查看 [零基础搭建指南](https://github.com/kangers/-obsidian-claude-/blob/main/SETUP.md)。从安装 Obsidian 到 AI 开始辅导，全程约 30 分钟，不需要编程基础。
 
 ### 📜 许可证
 
